@@ -1,5 +1,5 @@
-# xwbank2020_决赛rank3（来自Chaos团队）
- [“2020创青春·交子杯” 新网银行金融科技挑战赛AI算法赛道](https://www.kesci.com/custom_landing/xwbank)
+# xwbank2020_rank3_finals（Chaos团队）
+
 
 ## 知乎分享@Aaa
 

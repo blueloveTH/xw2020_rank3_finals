@@ -1,5 +1,0 @@
-此文件夹应有三个文件：
-- sensor_train_final.csv
-- sensor_test_final.csv
-- submit_sample.csv
-
