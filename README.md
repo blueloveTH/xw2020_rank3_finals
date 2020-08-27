@@ -1,4 +1,4 @@
-# xwbank2020_rank3_finals（Chaos团队）
+# xw2020_rank3_finals（Chaos团队）
 
 
 ## 知乎分享@Aaa
