@@ -1,4 +1,4 @@
-# xw2020_rank7_finals（Chaos）
+# xw2020_rank3(7 for last combo)\_finals（Chaos）
 
 
 ## 知乎分享@Aaa
